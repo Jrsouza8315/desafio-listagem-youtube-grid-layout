@@ -1,0 +1,105 @@
+
+
+.container{
+    margin: 20px 40px 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 24px;
+    gap: 32px;
+    
+    position: absolute;
+    width: 1440px;
+    height: 56px;
+    left: 0px;
+    top: 0px;
+    
+    background: #FFFFFF;
+   
+}
+
+.youtube{
+    position: absolute;
+    width: 90px;
+    height: 20px;
+    left: 80px;
+    top: 18px;
+}
+
+.menu{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 24px;
+    top: 16px;
+
+}
+
+.input{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 348px;
+    height: 40px;
+    left: 526px;
+    top: 8px;
+
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+
+}
+
+.camera{
+    margin-right: 20px;
+    width: 24px;
+    height: 24px;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.sino{
+    margin-right: 20px;
+    height: 24px;
+    width: 24px;
+    left: 48px;
+    top: 5px;
+    border-radius: 0px;
+    
+    
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+
+
+.button{
+    box-sizing: border-box;
+
+position: absolute;
+width: 57px;
+height: 40px;
+left: 873px;
+top: 8px;
+
+background: #F8F8F8;
+border: 1px solid #CCCCCC;
+}
+
+.avatar{
+    border-radius: 50%;
+    width: 34px;
+    height: 34px;
+
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+
+
